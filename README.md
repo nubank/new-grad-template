@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-You will need [Java JDK], [Leiningen][] 2.0.0 or above installed.
+You will need [Java JDK] 8 or above and [Leiningen][] 2.0.0 or above installed.
 
 [Java JDK]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 [leiningen]: https://github.com/technomancy/leiningen
