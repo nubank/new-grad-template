@@ -4,7 +4,7 @@
 
 You will need [Java JDK], [Leiningen][] 2.0.0 or above installed.
 
-[java]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+[Java JDK]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 [leiningen]: https://github.com/technomancy/leiningen
 
 ## Running Tests
