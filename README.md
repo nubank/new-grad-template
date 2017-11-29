@@ -16,9 +16,6 @@ To run tests, run:
 All tests should pass, you should see this output:
 
 ```
-(:repositories detected in user-level profiles! [:user]
-See https://github.com/technomancy/leiningen/wiki/Repeatability)
-nil
 All checks (3) succeeded.
 ```
 
